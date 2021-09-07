@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: "\U0001F605"
+  - tagline: "\U0001F605\U0001F389"
     headline: Welcome to the Tina Starter.
     text: >
       This project is set up to show you the basics of working with Tina. You're
