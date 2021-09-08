@@ -1,9 +1,9 @@
 {
   "header": {
     "icon": {
-      "color": "orange",
-      "style": "float",
-      "name": "tina"
+      "color": "",
+      "style": "",
+      "name": ""
     },
     "color": "default",
     "nav": [
@@ -30,9 +30,9 @@
     }
   },
   "theme": {
-    "color": "blue",
+    "color": "green",
     "font": "sans",
-    "icon": "boxicon",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
