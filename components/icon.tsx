@@ -18,6 +18,7 @@ import {
   BiCloud,
   BiCoffeeTogo,
   BiWorld,
+
 } from "react-icons/bi";
 import { ImTrophy } from "react-icons/im";
 import {
@@ -35,6 +36,11 @@ import {
   HiThumbUp,
   HiUser,
 } from "react-icons/hi";
+import {
+  GiChessQueen,
+  GiImperialCrown,
+  GiQueenCrown,
+} from "react-icons/gi";
 import { FiAperture } from "react-icons/fi";
 import { Theme, ThemeContext } from "./theme";
 import { FaBeer, FaCoffee, FaPalette } from "react-icons/fa";
@@ -62,6 +68,9 @@ const biIconOptions = {
   world: BiWorld,
   aperture: FiAperture,
   tina: TinaIconSvg,
+  Crown1: GiChessQueen,
+  Crown2: GiImperialCrown,
+  Crown3: GiQueenCrown
 };
 
 const heroIconOptions = {
