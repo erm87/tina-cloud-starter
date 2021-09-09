@@ -2,8 +2,8 @@
   "header": {
     "icon": {
       "color": "",
-      "style": "",
-      "name": ""
+      "style": "circle",
+      "name": "code"
     },
     "color": "default",
     "nav": [
