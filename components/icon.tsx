@@ -70,7 +70,7 @@ const biIconOptions = {
   tina: TinaIconSvg,
   Crown1: GiChessQueen,
   Crown2: GiImperialCrown,
-  Crown3: GiQueenCrown
+  Crown3: GiQueenCrown,
 };
 
 const heroIconOptions = {
